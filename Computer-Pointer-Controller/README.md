@@ -4,7 +4,7 @@
 
 This project is one of three projects of the Intel Edge AI IoT Nanodegree Program. The project makes use of Intel's pre-trained models to build a Computer Pointer Controller app that controls the movement of the mouse pointers with the direction of a human eyes as well the estimation pose of head provided by an input video or webcam.
 
-| DETAILS                          |
+| DETAILS             |             |
 |-----------------------|---------------|
 | **Programming Language** |  Python 3.6 |
 | **OpenVino Version** |  2020.2.120 |
